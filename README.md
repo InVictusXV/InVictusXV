@@ -17,7 +17,7 @@
 **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/GrettoRosella/GrettoRosella/master/asset/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/InVictusXV/InVictusXV/master/asset/git-header.svg" />
 
 - 🏘️ #GengKapak
 - 📅 March 10th, 2002
@@ -35,7 +35,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="https://github.com/InVictusXV">
-    <img width="55%" align="right" alt="Aradhea's github stats" src="https://github-readme-stats.vercel.app/api?username=GrettoRosella&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="Aradhea's github stats" src="https://github-readme-stats.vercel.app/api?username=InVictusXV&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
